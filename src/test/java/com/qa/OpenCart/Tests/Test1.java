@@ -11,8 +11,7 @@ public class Test1 {
 		
 		System.out.println("added 4th line");
 
-		System.out.println("added 5th line");
-		System.out.println("added 6th line");
+		
 		
 
 	}
