@@ -7,5 +7,9 @@ public class Cherry {
 		System.out.println("master cherry3");
 
 	}
+	
+	private static void add() {
+		System.out.println("add method master");
+	}
 
 }
