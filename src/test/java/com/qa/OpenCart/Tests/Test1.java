@@ -13,7 +13,11 @@ public class Test1 {
 
 		System.out.println("added 6th line");
 
+<<<<<<< Updated upstream
 		System.out.println("added 7th line");
+=======
+		System.out.println("added 8th line");
+>>>>>>> Stashed changes
 
 	}
 
